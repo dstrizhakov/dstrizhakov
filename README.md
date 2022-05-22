@@ -1,3 +1,6 @@
+
+Hey!
+
 I`m frontend-developer with 1 year experience. I currently aim to earn as much as I can in a work environment and to further my own abilities in professional settings.
 
 const gitHubAccount: string = “ https://github.com/dstrizhakov “ }
