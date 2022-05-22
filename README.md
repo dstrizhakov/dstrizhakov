@@ -44,7 +44,7 @@ I am currently actively expanding my knowledge for React development and looking
 Where I can quickly grow and develop web development skills every day.}
 
 @Contacts {
-GitHub: https://github.com/dstrizhakov
-Email: mailto:d.strizhakov@gmail.com
-Telegram: @DmitryStrizhakov
+GitHub: "https://github.com/dstrizhakov"
+Email: "mailto:d.strizhakov@gmail.com"
+Telegram: "@DmitryStrizhakov"
 }
