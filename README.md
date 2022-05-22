@@ -45,6 +45,6 @@ Where I can quickly grow and develop web development skills every day.}
 
 @Contacts {
 GitHub: https://github.com/dstrizhakov
-Email: d.strizhakov@gmail.com
+Email: mailto:d.strizhakov@gmail.com
 Telegram: @DmitryStrizhakov
 }
