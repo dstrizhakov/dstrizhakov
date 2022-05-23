@@ -48,4 +48,4 @@ Email: "d.strizhakov@gmail.com"
 Telegram: "@DmitryStrizhakov"
 }
 
-Please, contact me by any quastions!
+Please contact me for any questions!
