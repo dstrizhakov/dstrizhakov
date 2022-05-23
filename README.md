@@ -10,7 +10,6 @@ I really enjoy developing in React, and I really want to work among like-minded 
 • Redux
 • Rest API
 • JavaScript
-• Typescript
 • GIT
 • Pug
 • Webpack
