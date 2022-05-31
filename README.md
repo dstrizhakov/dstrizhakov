@@ -27,7 +27,7 @@ I really enjoy developing in React, and I really want to work among like-minded 
 }
 
 @Additional libraries {
-• React-redux (provider, connect)
+• React-redux (provider, connect, compose)
 • Redux-form (manage form state in Redux, validation)
 • React-router-dom (BrowserRouter, NavLink, withRouter)
 • Redux-thunk
