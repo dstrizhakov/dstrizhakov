@@ -4,7 +4,7 @@ Hey!
 I am currently looking to develop my abilities in a professional environment. 
 I really enjoy developing in React, and I really want to work among like-minded people, learn and share my knowledge.
 
-@Proggraming skills {
+@Programming skills {
 • React
 • React Hooks
 • Redux
