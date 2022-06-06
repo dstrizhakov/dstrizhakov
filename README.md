@@ -41,8 +41,12 @@ Previously, I worked as a freelancer, and worked on the development of sites in 
 This knowledge is the foundation in understanding the "BEM methodology", HTML structure and CSS properties, usability and adaptability of the site. 
 I am currently actively expanding my knowledge for React development and looking for a position as a react.js developer in a company that will become a second home, where I can quickly grow and develop web development skills every day.
 }
-@Examples {
-Funiro: "https://dstrizhakov.github.io/funiro/"
+@Examples { 
+Style sheets: [
+Funiro: "https://dstrizhakov.github.io/funiro/",
+Relvise: "https://dstrizhakov.github.io/relvise/"
+],
+React: [in progress...]
 }
 
 @Contacts {
