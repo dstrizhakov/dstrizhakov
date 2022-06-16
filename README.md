@@ -53,11 +53,9 @@ I am currently actively expanding my knowledge for React development and looking
 ## 
 
  @Examples { 
-Style sheets: [
-Funiro: "https://dstrizhakov.github.io/funiro/",
-Relvise: "https://dstrizhakov.github.io/relvise/"
-],
-React: <a href="(https://dstrizhakov.github.io/react-social/)">Social Network</a>
+0: [Funiro](https://dstrizhakov.github.io/funiro/),
+1: [Relvise](https://dstrizhakov.github.io/relvise/),
+2: [React Social Network](https://dstrizhakov.github.io/react-social/)
 }
 
 ## 
