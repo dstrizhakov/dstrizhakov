@@ -56,6 +56,6 @@ Email: "d.strizhakov@gmail.com"
 Telegram: "@DmitryStrizhakov"
 }
 
-Please contact me for any questions!
+Please, contact me for any questions!
 <hr>
 <img src = 'https://www.codewars.com/users/dstrizhakov/badges/large' alt = 'codewars banner'/>
