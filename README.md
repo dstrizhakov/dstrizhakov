@@ -4,7 +4,9 @@
 I am currently looking to develop my abilities in a professional environment. 
 I really enjoy developing in React, and I really want to work among like-minded people, learn and share my knowledge.
 
-@Programming skills {
+## 
+
+ @Programming skills {
 • React
 • React Hooks
 • Redux
@@ -16,7 +18,9 @@ I really enjoy developing in React, and I really want to work among like-minded 
 • Gulp
 }
 
-@Style sheets skills {
+## 
+
+ @Style sheets skills {
 • HTML5/SCSS
 • SCSS modules
 • Styled-Components
@@ -27,7 +31,9 @@ I really enjoy developing in React, and I really want to work among like-minded 
 • BEM methodology
 }
 
-@Additional libraries {
+## 
+
+ @Additional libraries {
 • React-redux (provider, connect, compose)
 • Redux-form (manage form state in Redux, validation)
 • React-router-dom (BrowserRouter, NavLink, withRouter)
@@ -35,14 +41,18 @@ I really enjoy developing in React, and I really want to work among like-minded 
 • Axios
 }
 
-@About me {
+## 
+
+ @About me {
 I am a junior front-end developer with 1 year experience. 
 Previously, I worked as a freelancer, and worked on the development of sites in HTML5 + SCSS + JS. 
 This knowledge is the foundation in understanding the "BEM methodology", HTML structure and CSS properties, usability and adaptability of the site. 
 I am currently actively expanding my knowledge for React development and looking for a position as a react.js developer in a company that will become a second home, where I can quickly grow and develop web development skills every day.
 }
 
-@Examples { 
+## 
+
+ @Examples { 
 Style sheets: [
 Funiro: "https://dstrizhakov.github.io/funiro/",
 Relvise: "https://dstrizhakov.github.io/relvise/"
@@ -50,11 +60,15 @@ Relvise: "https://dstrizhakov.github.io/relvise/"
 React: [in progress...]
 }
 
-@Contacts {
+## 
+
+ @Contacts {
 GitHub: "https://github.com/dstrizhakov"
 Email: "d.strizhakov@gmail.com"
 Telegram: "@DmitryStrizhakov"
 }
+
+## 
 
 Please, contact me for any questions!
 <hr>
