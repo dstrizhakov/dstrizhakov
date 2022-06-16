@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=22&duration=7000&color=0093F7&center=true&vCenter=true&lines=Hey!!!++I'm+happy+to+welcome+you+here!;I'm+Dmitry%2C+Front-End+developer.)](https://git.io/typing-svg)
-<div style = "border-top: 1px solid white">
+<div style = "border:1px solid white">
 <img src = 'https://www.codewars.com/users/dstrizhakov/badges/large' alt = 'codewars banner'/>
 </div>
 I am currently looking to develop my abilities in a professional environment. 
