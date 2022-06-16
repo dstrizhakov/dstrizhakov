@@ -57,7 +57,7 @@ Style sheets: [
 Funiro: "https://dstrizhakov.github.io/funiro/",
 Relvise: "https://dstrizhakov.github.io/relvise/"
 ],
-React: [in progress...]
+React: <a href="(https://dstrizhakov.github.io/react-social/)">Social Network</a>
 }
 
 ## 
