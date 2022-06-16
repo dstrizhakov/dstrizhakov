@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=7000&color=0093F7&center=true&vCenter=true&lines=Hey!!!++I'm+happy+to+welcome+you+here!;I'm+Dmitry%2C+Front-End+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=22&duration=7000&color=0093F7&center=true&vCenter=true&lines=Hey!!!++I'm+happy+to+welcome+you+here!;I'm+Dmitry%2C+Front-End+developer.)](https://git.io/typing-svg)
 <hr>
 I am currently looking to develop my abilities in a professional environment. 
 I really enjoy developing in React, and I really want to work among like-minded people, learn and share my knowledge.
