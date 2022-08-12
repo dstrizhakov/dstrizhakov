@@ -61,7 +61,7 @@ I am currently actively expanding my knowledge for React development and looking
 ## 
 
  @Contacts {
-GitHub: "https://github.com/dstrizhakov"
+GitLab: "https://gitlab.zinchenko.team/d.strizhakov"
 Email: "d.strizhakov@gmail.com"
 Telegram: "@DmitryStrizhakov"
 }
