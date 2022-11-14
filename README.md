@@ -10,6 +10,7 @@ I really enjoy developing in React, and I really want to work among like-minded 
 • React
 • React Hooks
 • Redux
+• Mobx
 • Rest API
 • JavaScript
 • GIT
