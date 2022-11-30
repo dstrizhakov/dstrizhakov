@@ -59,6 +59,7 @@ I am currently actively expanding my knowledge for React development and looking
  @Examples { 
 0: [Funiro](https://dstrizhakov.github.io/funiro/),
 1: [Relvise](https://dstrizhakov.github.io/relvise/),
+2: [todoApp](https://todo-list-1b479.web.app/)
 2: [React Social Network](https://dstrizhakov.github.io/react-social/)
 }
 
