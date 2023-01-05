@@ -43,6 +43,7 @@ I am currently actively expanding my knowledge for React development and looking
 <a href="https://www.instagram.com/dmitry_strizhakov/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://discord.com/users/d.strizhakov#1122"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-
+## Statistics: ##
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
