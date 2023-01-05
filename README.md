@@ -28,13 +28,15 @@ I am currently actively expanding my knowledge for React development and looking
  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
  ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
+## [My CV](https://dstrizhakov.github.io/rsschool-cv/) ##
 
- @Examples { 
-0: [Funiro](https://dstrizhakov.github.io/funiro/),
-1: [Relvise](https://dstrizhakov.github.io/relvise/),
-2: [todoApp](https://todo-list-1b479.web.app/)
-2: [React Social Network](https://dstrizhakov.github.io/react-social/)
-}
+## Examples: ## 
+[Plants](https://rolling-scopes-school.github.io/dstrizhakov-JSFEPRESCHOOL2022Q4/Plants/index.html)
+[Funiro](https://dstrizhakov.github.io/funiro/),
+[Relvise](https://dstrizhakov.github.io/relvise/),
+[todoApp(Firebase)](https://todo-list-1b479.web.app/)
+[React Social Network](https://dstrizhakov.github.io/react-social/)
+
 
 ## Stay in touch: ##
 <a href="mailto:d.strizhakov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
