@@ -75,5 +75,4 @@ Telegram: "@DmitryStrizhakov"
 
 Please, contact me for any questions!
 <hr>
-![](https://komarev.com/ghpvc/?username=dstrizhakov&color=green) 
 <img src = 'https://www.codewars.com/users/dstrizhakov/badges/large' alt = 'codewars banner'/>
