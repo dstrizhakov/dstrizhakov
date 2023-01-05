@@ -31,10 +31,10 @@ I am currently actively expanding my knowledge for React development and looking
 ## [My CV](https://dstrizhakov.github.io/rsschool-cv/) ##
 
 ## Examples: ## 
-[Plants](https://rolling-scopes-school.github.io/dstrizhakov-JSFEPRESCHOOL2022Q4/Plants/index.html)
+[Plants](https://rolling-scopes-school.github.io/dstrizhakov-JSFEPRESCHOOL2022Q4/Plants/index.html),
 [Funiro](https://dstrizhakov.github.io/funiro/),
 [Relvise](https://dstrizhakov.github.io/relvise/),
-[todoApp(Firebase)](https://todo-list-1b479.web.app/)
+[todoApp(Firebase)](https://todo-list-1b479.web.app/),
 [React Social Network](https://dstrizhakov.github.io/react-social/)
 
 
