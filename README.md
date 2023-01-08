@@ -31,6 +31,7 @@ I am currently actively expanding my knowledge for React development and looking
 ## [My CV](https://dstrizhakov.github.io/rsschool-cv/) ##
 
 ## Examples: ## 
+[Crazy idea generator](https://ideagenerator-ids9r6do9-dstrizhakov.vercel.app/),
 [Plants](https://rolling-scopes-school.github.io/dstrizhakov-JSFEPRESCHOOL2022Q4/Plants/index.html),
 [Funiro](https://dstrizhakov.github.io/funiro/),
 [Relvise](https://dstrizhakov.github.io/relvise/),
