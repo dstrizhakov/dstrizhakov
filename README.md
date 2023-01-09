@@ -32,9 +32,9 @@ I am currently actively expanding my knowledge for React development and looking
 
 ## Examples: ## 
 
-[![crazyideagen](https://user-images.githubusercontent.com/95134334/211321044-eca9710c-5a0e-4e5a-9688-ca3fe8133537.png)](https://ideagenerator-mu.vercel.app/)
-[![funiro](https://user-images.githubusercontent.com/95134334/211322119-c792f6c9-1c88-442a-8932-9b5537569336.png)](https://dstrizhakov.github.io/funiro/)
-[![todo](https://user-images.githubusercontent.com/95134334/211322780-2ce72f47-6287-4f46-b8ea-beca23cf1dcc.png)](https://todo-list-1b479.web.app/)
+[![crazyideagen](https://user-images.githubusercontent.com/95134334/211323472-4868e4a0-c14f-42ca-af2a-ee1a35bb514d.png)](https://ideagenerator-mu.vercel.app/)
+[![funiro](https://user-images.githubusercontent.com/95134334/211323540-4b42344f-ae9c-4a52-9719-efd8e185a7bf.png)](https://dstrizhakov.github.io/funiro/)
+[![todo](https://user-images.githubusercontent.com/95134334/211323597-67fab636-a567-47d4-88ae-585e942da671.png)](https://todo-list-1b479.web.app/)
 
 
 ## Stay in touch: ##
