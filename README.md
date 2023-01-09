@@ -31,12 +31,10 @@ I am currently actively expanding my knowledge for React development and looking
 ## [My CV](https://dstrizhakov.github.io/rsschool-cv/) ##
 
 ## Examples: ## 
-[Crazy idea generator](https://ideagenerator-ids9r6do9-dstrizhakov.vercel.app/),
-[Plants](https://rolling-scopes-school.github.io/dstrizhakov-JSFEPRESCHOOL2022Q4/Plants/index.html),
-[Funiro](https://dstrizhakov.github.io/funiro/),
-[Relvise](https://dstrizhakov.github.io/relvise/),
-[todoApp(Firebase)](https://todo-list-1b479.web.app/),
-[React Social Network](https://dstrizhakov.github.io/react-social/)
+
+[![crazyideagen](https://user-images.githubusercontent.com/95134334/211321044-eca9710c-5a0e-4e5a-9688-ca3fe8133537.png)](https://ideagenerator-mu.vercel.app/)
+[![funiro](https://user-images.githubusercontent.com/95134334/211322119-c792f6c9-1c88-442a-8932-9b5537569336.png)](https://dstrizhakov.github.io/funiro/)
+[![todo](https://user-images.githubusercontent.com/95134334/211322780-2ce72f47-6287-4f46-b8ea-beca23cf1dcc.png)](https://todo-list-1b479.web.app/)
 
 
 ## Stay in touch: ##
