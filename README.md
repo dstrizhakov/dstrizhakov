@@ -42,7 +42,8 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
 [![funiro](https://user-images.githubusercontent.com/95134334/211323540-4b42344f-ae9c-4a52-9719-efd8e185a7bf.png)](https://dstrizhakov.github.io/funiro/)
 [![todo](https://user-images.githubusercontent.com/95134334/211323597-67fab636-a567-47d4-88ae-585e942da671.png)](https://todo-list-1b479.web.app/)
 ![Rehire-Pro](https://user-images.githubusercontent.com/95134334/211325172-dfaa0dc9-0c8a-444a-8dab-ab78eec153d2.png)
-![211647467-d743f0f7-9ae5-4c25-ae12-2884ec1f799a](https://user-images.githubusercontent.com/95134334/211864077-d7fe60da-a898-4e02-b8d1-a85e516927db.png)
+[![Artstore-NextJS](https://user-images.githubusercontent.com/95134334/211864077-d7fe60da-a898-4e02-b8d1-a85e516927db.png)](https://github.com/dstrizhakov/artstore-next)
+ 
 
  </div>
 
