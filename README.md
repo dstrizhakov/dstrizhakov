@@ -4,12 +4,9 @@
 
 # Hi there, my name is Dmitry! I'm Javascript developer. #
 I am front-end developer with 1.5 year experience. 
-Previously, I worked as a freelancer, and worked on the development of sites in HTML5 + SCSS + JS. 
-This knowledge is the foundation in understanding the "BEM methodology", HTML structure and CSS properties, usability and adaptability of the site. 
 I am currently actively expanding my knowledge for ReactJS NextJS development and looking for a position as a react.js developer in a company that will become a second home, where I can quickly grow and develop web development skills every day.
 ## My skills: ##
 
- 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -32,7 +29,6 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
- 
 ## [My CV](https://dstrizhakov.github.io/rsschool-cv/) ##
 
 ## Examples: ## 
