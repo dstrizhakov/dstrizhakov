@@ -34,6 +34,7 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
 ## Examples: ## 
 <div align="center">
  
+ [![momentum](https://user-images.githubusercontent.com/95134334/222079495-1facb94f-7c8d-4e1f-9640-732015c3b681.jpg)](https://dstrizhakov-momentum.netlify.app/)
  [![Plants](https://user-images.githubusercontent.com/95134334/217812367-d3839bdd-8669-45cf-9e85-99f79fe851de.png)](https://dstrizhakov.github.io/Plants/Plants/index.html)
 [![crazyideagen](https://user-images.githubusercontent.com/95134334/211323472-4868e4a0-c14f-42ca-af2a-ee1a35bb514d.png)](https://ideagenerator-mu.vercel.app/)
 [![funiro](https://user-images.githubusercontent.com/95134334/211323540-4b42344f-ae9c-4a52-9719-efd8e185a7bf.png)](https://dstrizhakov.github.io/funiro/)
