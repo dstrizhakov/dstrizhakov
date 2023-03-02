@@ -83,6 +83,12 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
  
 
 ## Statistics: ##
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
+<a href="https://github.com/dstrizhakov">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstrizhakov&layout=compact" />
+</a>
+<a href="https://github.com/dstrizhakov">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dstrizhakov&show_icons=true&line_height=20&count_private=true&title_color=2883e6&text_color=47515b&icon_color=f2df71&bg_color=ffffff" alt="Dmitry's GitHub Stats" />
+</a>
 
