@@ -31,18 +31,46 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
 
 ## [My CV](https://dstrizhakov.github.io/rsschool-cv/) ##
 
-## Examples: ## 
-<div align="center">
- 
- [![momentum](https://user-images.githubusercontent.com/95134334/222079495-1facb94f-7c8d-4e1f-9640-732015c3b681.jpg)](https://dstrizhakov-momentum.netlify.app/)
- [![Plants](https://user-images.githubusercontent.com/95134334/217812367-d3839bdd-8669-45cf-9e85-99f79fe851de.png)](https://dstrizhakov.github.io/Plants/Plants/index.html)
-[![crazyideagen](https://user-images.githubusercontent.com/95134334/211323472-4868e4a0-c14f-42ca-af2a-ee1a35bb514d.png)](https://ideagenerator-mu.vercel.app/)
-[![funiro](https://user-images.githubusercontent.com/95134334/211323540-4b42344f-ae9c-4a52-9719-efd8e185a7bf.png)](https://dstrizhakov.github.io/funiro/)
-[![todo](https://user-images.githubusercontent.com/95134334/211323597-67fab636-a567-47d4-88ae-585e942da671.png)](https://github.com/dstrizhakov/todo)
-![Rehire-Pro](https://user-images.githubusercontent.com/95134334/211325172-dfaa0dc9-0c8a-444a-8dab-ab78eec153d2.png)
-[![Artstore-NextJS](https://user-images.githubusercontent.com/95134334/211864077-d7fe60da-a898-4e02-b8d1-a85e516927db.png)](https://github.com/dstrizhakov/artstore-next)
+## App Examples: ## 
 
- </div>
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Momentum</b></td>
+        <td><b>Crazy Idea Generator</b></td>
+        <td><b>React Todo</b></td>
+        <td><b>Rehire-Pro startup</b></td>
+     </tr>
+     <tr>
+        <td><a href="https://dstrizhakov-momentum.netlify.app/"><img src="https://user-images.githubusercontent.com/95134334/222079495-1facb94f-7c8d-4e1f-9640-732015c3b681.jpg" heigth="200" alt="momentum" > </img></a></td>
+        <td><a href="https://ideagenerator-mu.vercel.app/"><img src="https://user-images.githubusercontent.com/95134334/211323472-4868e4a0-c14f-42ca-af2a-ee1a35bb514d.png" heigth="200" alt="landing page" > </img></a></td>
+        <td> <a href="https://github.com/dstrizhakov/todo"><img src="https://user-images.githubusercontent.com/95134334/211323597-67fab636-a567-47d4-88ae-585e942da671.png" heigth="200" alt="landing page"/></a></td>
+        <td><img src="https://user-images.githubusercontent.com/95134334/211325172-dfaa0dc9-0c8a-444a-8dab-ab78eec153d2.png" heigth="200" alt="landing page" > </img></td>
+     </tr>
+    </table>
+    </div>
+
+ ## Landing Page Examples: ## 
+
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Plants</b></td>
+        <td><b>Сonquest</b></td>
+        <td><b>FineArtStore</b></td>
+        <td><b>Beauty</b></td>
+        <td><b>Funiro</b></td>
+     </tr>
+     <tr>
+        <td><a href="https://github.com/dstrizhakov/Plants"><img src="https://user-images.githubusercontent.com/95134334/222375022-3e1a2512-fee0-4a40-a1d2-972fc1e0876b.jpg" heigth="500" alt="landing page" > </img></a></td>
+        <td><a href="https://github.com/dstrizhakov/conquest"><img src="https://user-images.githubusercontent.com/95134334/222372263-72185578-4e29-49f1-9c3e-e7b7492b806a.jpg" heigth="500" alt="landing page" > </img></a></td>
+        <td> <a href="https://github.com/dstrizhakov/artstore-next"><img src="https://user-images.githubusercontent.com/95134334/222370280-62dfcf8d-c862-4bdb-9e8d-4dc527a1d97f.png" heigth="500" alt="landing page"/></a></td>
+        <td><a href="https://github.com/dstrizhakov/beauty"><img src="https://user-images.githubusercontent.com/95134334/222370047-a49928dc-d6d0-4879-bbdb-cc7edc5717e7.png" heigth="500" alt="landing page" > </img></a></td>
+        <td><a href="https://github.com/dstrizhakov/funiro"><img src="https://user-images.githubusercontent.com/95134334/222370052-01fe0157-46da-49a1-9174-9cbf9378725d.jpg" heigth="500" alt="landing page" > </img></a></td>
+     </tr>
+    </table>
+    </div>
+ 
 
 ## Stay in touch: ##
 
