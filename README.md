@@ -31,6 +31,21 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
 
 ## [My CV](https://dstrizhakov.github.io/rsschool-cv/) ##
 
+
+## Certificates: ## 
+
+<div align="center">
+    <table >
+     <tr>
+        <td><b>RSSCHOOL PRE-SCHOOL</b></td>
+     </tr>
+     <tr>
+        <td><a href="https://app.rs.school/certificate/q0dl9kv6"><img src="https://user-images.githubusercontent.com/95134334/222966248-76b3375d-820a-4315-aa83-aed26cb6bc36.jpg" heigth="250" alt="certificate" ></img></a></td>
+     </tr>
+    </table>
+    </div>
+
+
 ## App Examples: ## 
 
 <div align="center">
@@ -74,14 +89,12 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
 
 ## Stay in touch: ##
 
-
 <a href="mailto:d.strizhakov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/DmitryStrizhakov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dmitry-strizhakov-b7848b252/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.instagram.com/dmitry_strizhakov/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://discord.com/users/d.strizhakov#1122"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
  
-
 ## Statistics: ##
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
