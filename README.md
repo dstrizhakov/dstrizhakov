@@ -5,7 +5,8 @@
 # Hi there, my name is Dmitry! I'm Javascript developer. #
 I am front-end developer with 1.5 year experience. 
 I am currently actively expanding my knowledge for ReactJS NextJS development and looking for a position as a react.js developer in a company that will become a second home, where I can quickly grow and develop web development skills every day.
-## My skills: ##
+
+### My skills: ###
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,10 +30,10 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## [My CV](https://dstrizhakov.github.io/rsschool-cv/) ##
+### [My CV](https://dstrizhakov.github.io/rsschool-cv/) ###
 
 
-## Certificates: ## 
+### Certificates: ### 
 
 <div align="center">
     <table >
@@ -46,7 +47,7 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
     </div>
 
 
-## App Examples: ## 
+### Examples: ### 
 
 <div align="center">
     <table >
@@ -64,8 +65,6 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
      </tr>
     </table>
     </div>
-
- ## Landing Page Examples: ## 
 
 <div align="center">
     <table >
@@ -87,7 +86,7 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
     </div>
  
 
-## Stay in touch: ##
+### Stay in touch: ###
 
 <a href="mailto:d.strizhakov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/DmitryStrizhakov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -95,7 +94,7 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
 <a href="https://www.instagram.com/dmitry_strizhakov/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://discord.com/users/d.strizhakov#1122"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
  
-## Statistics: ##
+### Statistics: ###
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <a href="https://github.com/dstrizhakov">
