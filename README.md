@@ -37,10 +37,10 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
 <div align="center">
     <table >
      <tr>
-        <td><b>RSSCHOOL PRE-SCHOOL</b></td>
+        <td><b>JS/FE PRE-SCHOOL 2022Q4 (JAVASCRIPT)</b></td>
      </tr>
      <tr>
-        <td><a href="https://app.rs.school/certificate/q0dl9kv6"><img src="https://user-images.githubusercontent.com/95134334/222966248-76b3375d-820a-4315-aa83-aed26cb6bc36.jpg" heigth="250" alt="certificate" ></img></a></td>
+        <td><a href="https://app.rs.school/certificate/q0dl9kv6"><img src="https://user-images.githubusercontent.com/95134334/222966248-76b3375d-820a-4315-aa83-aed26cb6bc36.jpg" alt="certificate" ></img></a></td>
      </tr>
     </table>
     </div>
