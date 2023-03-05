@@ -58,7 +58,7 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
         <td><b>Rehire-Pro startup</b></td>
      </tr>
      <tr>
-        <td><a href="https://dstrizhakov-momentum.netlify.app/"><img src="https://user-images.githubusercontent.com/95134334/222079495-1facb94f-7c8d-4e1f-9640-732015c3b681.jpg" heigth="200" alt="momentum" > </img></a></td>
+        <td><a href="https://github.com/dstrizhakov/momentum"><img src="https://user-images.githubusercontent.com/95134334/222079495-1facb94f-7c8d-4e1f-9640-732015c3b681.jpg" heigth="200" alt="momentum" > </img></a></td>
         <td><a href="https://ideagenerator-mu.vercel.app/"><img src="https://user-images.githubusercontent.com/95134334/211323472-4868e4a0-c14f-42ca-af2a-ee1a35bb514d.png" heigth="200" alt="landing page" > </img></a></td>
         <td> <a href="https://github.com/dstrizhakov/todo"><img src="https://user-images.githubusercontent.com/95134334/211323597-67fab636-a567-47d4-88ae-585e942da671.png" heigth="200" alt="landing page"/></a></td>
         <td><img src="https://user-images.githubusercontent.com/95134334/211325172-dfaa0dc9-0c8a-444a-8dab-ab78eec153d2.png" heigth="200" alt="landing page" > </img></td>
