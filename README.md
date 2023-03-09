@@ -73,6 +73,7 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
         <td><b>Сonquest</b></td>
         <td><b>FineArtStore</b></td>
         <td><b>Beauty</b></td>
+        <td><b>Modeltune</b></td>
         <td><b>Funiro</b></td>
      </tr>
      <tr>
@@ -80,6 +81,7 @@ I am currently actively expanding my knowledge for ReactJS NextJS development an
         <td><a href="https://github.com/dstrizhakov/conquest"><img src="https://user-images.githubusercontent.com/95134334/222372263-72185578-4e29-49f1-9c3e-e7b7492b806a.jpg" heigth="500" alt="landing page" > </img></a></td>
         <td> <a href="https://github.com/dstrizhakov/artstore-next"><img src="https://user-images.githubusercontent.com/95134334/222370280-62dfcf8d-c862-4bdb-9e8d-4dc527a1d97f.png" heigth="500" alt="landing page"/></a></td>
         <td><a href="https://github.com/dstrizhakov/beauty"><img src="https://user-images.githubusercontent.com/95134334/222370047-a49928dc-d6d0-4879-bbdb-cc7edc5717e7.png" heigth="500" alt="landing page" > </img></a></td>
+        <td><a href="https://github.com/dstrizhakov/modeltune"><img src="https://user-images.githubusercontent.com/95134334/224101443-3ca82778-2620-4326-b67e-2de85bdf4652.png" heigth="500" alt="landing page" > </img></a></td>
         <td><a href="https://github.com/dstrizhakov/funiro"><img src="https://user-images.githubusercontent.com/95134334/222370052-01fe0157-46da-49a1-9174-9cbf9378725d.jpg" heigth="500" alt="landing page" > </img></a></td>
      </tr>
     </table>
