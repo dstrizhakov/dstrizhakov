@@ -30,7 +30,7 @@ I am currently actively expanding my knowledge for ReactJS NextJS, development.
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-### [My CV](https://dstrizhakov.github.io/rsschool-cv/) ### dereplecated
+### [My CV (dereplecated)](https://dstrizhakov.github.io/rsschool-cv/) 
 
 
 ### Certificates: ### 
