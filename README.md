@@ -3,8 +3,8 @@
 
 
 # Hi there, my name is Dmitry! I'm Javascript developer. #
-I am front-end developer with 2 year experience. 
-I am currently actively expanding my knowledge for ReactJS NextJS development and looking for a position as a react.js developer in a company that will become a second home, where I can quickly grow and develop web development skills every day.
+I am front-end developer with 4+ year experience. 
+I am currently actively expanding my knowledge for ReactJS NextJS, development.
 
 ### My skills: ###
 
