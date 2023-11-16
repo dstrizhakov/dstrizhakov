@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=dstrizhakov&style=flat) 
-![](https://www.codewars.com/users/rsschool_4a46913b280a6185/badges/micro)
+![](https://www.codewars.com/users/Dmitry Strizhakov/badges/micro)
 
 
 # Hi there, my name is Dmitry! I'm Javascript developer. #
