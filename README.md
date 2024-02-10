@@ -3,7 +3,10 @@
 
 
 # Hi there, my name is Dmitry! I'm Javascript developer. #
-I am developer with 3+ year experience. 
+
+I'm a JavaScript Developer with a strong foundation in web development and a big desire to grow in this dynamic field. 
+I am familiar with Scrum / Agile software development methodologies, code review and quality best practices. 
+During my work I conducted Technical Interviews and also I participated in mentoring.
 Right now I'm actively expanding my knowledge for ReactJS NextJS NodeJS, development.
 
 ### My skills: ###
