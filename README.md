@@ -45,7 +45,7 @@ During my work I conducted Technical Interviews and also I participated in mento
         <td><b>Sultan React</b></td>
         <td><b>Momentum JS</b></td>
         <td><b>Crazy Idea Generator NextJS</b></td>
-        <td><b>Mineswiper</b></td>
+        <td><b>Mineswiper JS</b></td>
         <td><b>Rehire-Pro startup</b></td>
      </tr>
      <tr>
