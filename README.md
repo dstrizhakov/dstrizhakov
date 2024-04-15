@@ -36,8 +36,6 @@ During my work I conducted Technical Interviews and also I participated in mento
  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
  ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
  
-![248334332-953ddb8b-9d39-44e3-be37-4419b43501fe](https://github.com/dstrizhakov/dstrizhakov/assets/95134334/ceafe573-c0c3-4dc5-8a89-81b3ff6df24a)
-
 
 ### Examples: ### 
 
