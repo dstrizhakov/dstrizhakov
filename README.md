@@ -76,7 +76,7 @@ During my work I conducted Technical Interviews and also I participated in mento
 
  ### Certificates: ### 
 
-| <a href="https://app.rs.school/certificate/q0dl9kv6">JS/FE PRE-SCHOOL 2022Q4 (JAVASCRIPT)</a> | <a href="https://app.rs.school/certificate/ad03f2df">JS/FE 20232Q1 (JAVASCRIPT)</a> | <a href="https://app.rs.school/certificate/ckhrl38o">NODEJS 2024 Q1 (NODEJS)</a> |
+| <a href="https://app.rs.school/certificate/q0dl9kv6">JS/FE PRE-SCHOOL 2022Q4</a> | <a href="https://app.rs.school/certificate/ad03f2df">JS/FE 20232Q1</a> | <a href="https://app.rs.school/certificate/ckhrl38o">NODEJS 2024 Q1</a> |
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://user-images.githubusercontent.com/95134334/222966248-76b3375d-820a-4315-aa83-aed26cb6bc36.jpg" alt="certificate-js-pre"/> | <img src="https://github.com/dstrizhakov/dstrizhakov/assets/95134334/fad09eb8-b8e9-458a-9932-fb24e0bafb22" alt="certificate-js"/>   | <img src="https://github.com/dstrizhakov/dstrizhakov/assets/95134334/d24048a3-68de-48dc-b404-d8e230ad704c" alt="certificate-nodejs"/>   |
  
