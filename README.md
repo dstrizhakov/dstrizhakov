@@ -36,6 +36,7 @@ During my work I conducted Technical Interviews and also I participated in mento
  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
  ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
  
+![248334332-953ddb8b-9d39-44e3-be37-4419b43501fe](https://github.com/dstrizhakov/dstrizhakov/assets/95134334/ceafe573-c0c3-4dc5-8a89-81b3ff6df24a)
 
 
 ### Examples: ### 
@@ -46,14 +47,14 @@ During my work I conducted Technical Interviews and also I participated in mento
         <td><b>Sultan React</b></td>
         <td><b>Momentum JS</b></td>
         <td><b>Crazy Idea Generator NextJS</b></td>
-        <td><b>React Todo React</b></td>
+        <td><b>Mineswiper</b></td>
         <td><b>Rehire-Pro startup</b></td>
      </tr>
      <tr>
       <td><a href="https://github.com/dstrizhakov/react-ts-sultan"><img src="https://user-images.githubusercontent.com/95134334/230900780-34b5fc5b-cbd4-4287-a226-5390ace8cefd.png" heigth="200" alt="sultan" > </img></a></td>
         <td><a href="https://github.com/dstrizhakov/momentum"><img src="https://user-images.githubusercontent.com/95134334/222079495-1facb94f-7c8d-4e1f-9640-732015c3b681.jpg" heigth="200" alt="momentum" > </img></a></td>
         <td><a href="https://ideagenerator-mu.vercel.app/"><img src="https://user-images.githubusercontent.com/95134334/211323472-4868e4a0-c14f-42ca-af2a-ee1a35bb514d.png" heigth="200" alt="landing page" > </img></a></td>
-        <td> <a href="https://github.com/dstrizhakov/todo"><img src="https://user-images.githubusercontent.com/95134334/211323597-67fab636-a567-47d4-88ae-585e942da671.png" heigth="200" alt="landing page"/></a></td>
+        <td><a href="https://github.com/dstrizhakov/minesweeper"><img src="https://github.com/dstrizhakov/dstrizhakov/assets/95134334/ceafe573-c0c3-4dc5-8a89-81b3ff6df24a" heigth="200" alt="mimeswiper"/></a></td>
         <td><img src="https://user-images.githubusercontent.com/95134334/211325172-dfaa0dc9-0c8a-444a-8dab-ab78eec153d2.png" heigth="200" alt="landing page" > </img></td>
      </tr>
     </table>
