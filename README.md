@@ -46,14 +46,14 @@ During my work I conducted Technical Interviews and also I participated in mento
         <td><b>Momentum JS</b></td>
         <td><b>Crazy Idea Generator NextJS</b></td>
         <td><b>Mineswiper JS</b></td>
-        <td><b>Rehire-Pro startup</b></td>
+        <td><b>CSS Dinner JS</b></td>
      </tr>
      <tr>
       <td><a href="https://github.com/dstrizhakov/react-ts-sultan"><img src="https://user-images.githubusercontent.com/95134334/230900780-34b5fc5b-cbd4-4287-a226-5390ace8cefd.png" heigth="200" alt="sultan" > </img></a></td>
         <td><a href="https://github.com/dstrizhakov/momentum"><img src="https://user-images.githubusercontent.com/95134334/222079495-1facb94f-7c8d-4e1f-9640-732015c3b681.jpg" heigth="200" alt="momentum" > </img></a></td>
         <td><a href="https://ideagenerator-mu.vercel.app/"><img src="https://user-images.githubusercontent.com/95134334/211323472-4868e4a0-c14f-42ca-af2a-ee1a35bb514d.png" heigth="200" alt="landing page" > </img></a></td>
         <td><a href="https://github.com/dstrizhakov/minesweeper"><img src="https://github.com/dstrizhakov/dstrizhakov/assets/95134334/ceafe573-c0c3-4dc5-8a89-81b3ff6df24a" heigth="200" alt="mimeswiper"/></a></td>
-        <td><img src="https://user-images.githubusercontent.com/95134334/211325172-dfaa0dc9-0c8a-444a-8dab-ab78eec153d2.png" heigth="200" alt="landing page" > </img></td>
+        <td><a href="https://github.com/dstrizhakov/CSS-Selectors"><img src="https://github.com/dstrizhakov/dstrizhakov/assets/95134334/952898d4-0d91-43b1-8475-ee576e55e4e3" heigth="200" alt="landing page" /></a></td>
      </tr>
     </table>
     </div>
@@ -79,7 +79,7 @@ During my work I conducted Technical Interviews and also I participated in mento
     </table>
     </div>
 
- ### Certificates: ### 
+# Certificates: ### 
 
 | <a href="https://app.rs.school/certificate/q0dl9kv6">JS/FE PRE-SCHOOL 2022Q4</a> | <a href="https://app.rs.school/certificate/ad03f2df">JS/FE 20232Q1</a> | <a href="https://app.rs.school/certificate/3bk74vpb">NODEJS 2024 Q1</a> |
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
