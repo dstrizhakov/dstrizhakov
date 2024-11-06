@@ -93,11 +93,11 @@ During my work I conducted Technical Interviews and also I participated in mento
 <a href="https://www.linkedin.com/in/dmitry-strizhakov-b7848b252/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.instagram.com/dmitry_strizhakov/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://discord.com/users/d.strizhakov#1122"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
- 
+ <!--
 ### Statistics: ###
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!-- <a href="https://github.com/dstrizhakov">
+ <a href="https://github.com/dstrizhakov">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstrizhakov&text_color=080162&bg_color=f9f9f9&layout=compact" />
 </a>
 <a href="https://github.com/dstrizhakov">
